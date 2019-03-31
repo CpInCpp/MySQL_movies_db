@@ -1,0 +1,1001 @@
+movie_title,imdb_score,profit
+Avatar,7.9,523505847
+"Pirates of the Caribbean: At World's End",7.1,9404152
+Spectre,6.8,-44925825
+"The Dark Knight Rises",8.5,198130642
+"Star Wars: Episode VII - The Force Awakens",7.1,NULL
+"John Carter",6.6,-190641321
+Tangled,7.8,-59192738
+"Avengers: Age of Ultron",7.5,208991599
+"Harry Potter and the Half-Blood Prince",7.5,51956980
+"Batman v Superman: Dawn of Justice",6.9,80249062
+"Superman Returns",6.1,-8930592
+"Quantum of Solace",6.7,-31631573
+"Pirates of the Caribbean: Dead Man's Chest",7.3,198032628
+"The Lone Ranger",6.5,-125710090
+"Man of Steel",7.2,66021565
+"The Chronicles of Narnia: Prince Caspian",6.6,-83385977
+"The Avengers",8.1,403279547
+"Pirates of the Caribbean: On Stranger Tides",6.7,-8936125
+"Men in Black 3",6.8,-45979146
+"The Hobbit: The Battle of the Five Armies",7.5,5108370
+"The Amazing Spider-Man",7,32030663
+"Robin Hood",6.7,-94780265
+"The Hobbit: The Desolation of Smaug",7.9,33355354
+"The Golden Compass",6.1,-109916481
+Titanic,7.7,458672302
+"Captain America: Civil War",8.2,157197282
+Battleship,5.9,-143826840
+"Jurassic World",7,502177271
+"Spider-Man 2",7.3,173377893
+"Iron Man 3",7.2,208992272
+"X-Men: The Last Stand",6.8,24360014
+"Monsters University",7.3,68488329
+"Transformers: Revenge of the Fallen",6,202076689
+"Transformers: Age of Extinction",5.7,35428137
+"The Amazing Spider-Man 2",6.7,2853933
+"Cars 2",6.3,-8549125
+"Green Lantern",5.6,-83406809
+"Toy Story 3",8.3,214984497
+"Terminator Salvation",6.6,-74679997
+"Furious 7",7.2,160034110
+"World War Z",7,12351611
+"X-Men: Days of Future Past",8,33914986
+"Star Trek Into Darkness",7.8,38756232
+"Jack the Giant Slayer",6.3,-129828140
+"Prince of Persia: The Sands of Time",6.6,-109244357
+"Pacific Rim",7,-88214518
+"Transformers: Dark of the Moon",6.3,157358779
+"Indiana Jones and the Kingdom of the Crystal Skull",6.2,132011114
+"The Good Dinosaur",6.8,NULL
+Brave,7.2,52282182
+"Star Trek Beyond",7.5,-54531374
+"WALL  E",8.4,43806889
+"Rush Hour 3",6.2,80850
+2012,5.8,-33887833
+"A Christmas Carol",6.8,-62149904
+"Jupiter Ascending",5.4,-128624673
+"The Legend of Tarzan",6.6,-55948241
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,111709845
+"X-Men: Apocalypse",7.3,-23014913
+"The Dark Knight",9,348316061
+Up,8.3,117979556
+"Monsters vs. Aliens",6.5,23332128
+"Iron Man",7.9,178298180
+Hugo,7.5,-96179906
+"Wild Wild West",4.8,-56254592
+"The Mummy: Tomb of the Dragon Emperor",5.2,-42823835
+"Suicide Squad",6.9,-13912817
+"Evan Almighty",5.4,-74710310
+"Edge of Tomorrow",7.9,-77810499
+Waterworld,6.1,-86753780
+"G.I. Joe: The Rise of Cobra",5.8,-24832370
+"Inside Out",8.3,181454367
+"Iron Man 2",7,112057433
+"Snow White and the Huntsman",6.1,-14888185
+Maleficent,7,61407328
+"Dawn of the Planet of the Apes",7.6,38543795
+"47 Ronin",6.3,-136702695
+"Captain America: The Winter Soldier",7.8,89746958
+"Shrek Forever After",6.4,73371987
+Tomorrowland,6.5,-96582135
+"Big Hero 6",7.9,57487711
+"Wreck-It Ralph",7.8,24412677
+"The Polar Express",6.6,-164334574
+"Independence Day: Resurgence",5.5,-62684455
+"How to Train Your Dragon",8.2,52387997
+"Terminator 3: Rise of the Machines",6.4,-49649808
+"Guardians of the Galaxy",8.1,163130696
+Interstellar,8.6,22991439
+Inception,8.8,132568851
+"Godzilla Resurgence",8.2,NULL
+"The Hobbit: An Unexpected Journey",7.9,123001229
+"The Curious Case of Benjamin Button",7.8,-22509198
+"X-Men: First Class",7.8,-13594629
+"The Hunger Games: Mockingjay - Part 2",6.6,121666058
+"The Sorcerer's Apprentice",6.1,-86856188
+Poseidon,5.6,-99344497
+"Alice Through the Looking Glass",6.4,-93153376
+"Shrek the Third",6.1,160706665
+Warcraft,7.3,-113021005
+"Terminator Genisys",6.6,-65267965
+"The Chronicles of Narnia: The Voyage of the Dawn Treader",6.3,-50616376
+"Pearl Harbor",6.1,58539855
+Transformers,7.1,168759914
+Alexander,5.5,-120706229
+"Harry Potter and the Order of the Phoenix",7.5,142000866
+"Harry Potter and the Goblet of Fire",7.6,139994397
+Hancock,6.4,77946274
+"I Am Legend",7.2,106386216
+"Charlie and the Chocolate Factory",6.7,56456431
+Ratatouille,8,56435493
+"Batman Begins",8.3,55343774
+"Madagascar: Escape 2 Africa",6.7,29982968
+"Night at the Museum: Battle of the Smithsonian",5.9,27243721
+"X-Men Origins: Wolverine",6.7,29883016
+"The Matrix Revolutions",6.7,-10740241
+Frozen,7.6,250736600
+"The Matrix Reloaded",7.2,131492479
+"Thor: The Dark World",7.1,36360018
+"Mad Max: Fury Road",8.1,3629485
+"Angels & Demons",6.7,-16624154
+Thor,7,31015141
+Bolt,6.9,-35946421
+G-Force,5.1,-30579748
+"Wrath of the Titans",5.8,-66359574
+"Dark Shadows",6.2,-20288322
+"Mission: Impossible - Rogue Nation",7.4,45000874
+"The Wolfman",5.8,-88062505
+"Bee Movie",6.2,-23402879
+"Kung Fu Panda 2",7.3,15230261
+"The Last Airbender",4.2,-18435269
+"Mission: Impossible III",6.9,-16617691
+"White House Down",6.4,-76896216
+"Mars Needs Moms",5.4,-128620685
+"Flushed Away",6.7,-84540684
+"Mr. Peabody & Sherman",6.9,-33494358
+Troy,7.2,-41771652
+"Madagascar 3: Europe's Most Wanted",6.9,71366733
+"Die Another Day",6.1,18201106
+Armageddon,6.6,61573391
+"Men in Black II",6.1,50418803
+Beowulf,6.3,-67838031
+"Kung Fu Panda 3",7.2,-1476537
+"Mission: Impossible - Ghost Protocol",7.4,64364921
+"Rise of the Guardians",7.3,-41599308
+"Fun with Dick and Jane",6.1,10332737
+"The Last Samurai",7.7,-28889425
+"Star Trek",8,107704099
+Spider-Man,7.3,264706375
+"How to Train Your Dragon 2",7.9,31997107
+"Gods of Egypt",5.5,-108858926
+Stealth,5,-103295584
+Watchmen,7.7,-22496684
+"Lethal Weapon 4",6.6,-10265197
+Hulk,5.7,-4877005
+"G.I. Joe: Retaliation",5.8,-7487948
+Sahara,6,-61357548
+"Final Fantasy: The Spirits Within",6.4,-104868170
+"Captain America: The First Avenger",6.9,36636816
+"The World Is Not Enough",6.4,-8069340
+"Master and Commander: The Far Side of the World",7.4,-56073614
+"The Twilight Saga: Breaking Dawn - Part 2",5.5,172298923
+"Happy Feet 2",5.9,-71007672
+"The Incredible Hulk",6.8,-15481610
+"Miami Vice",7.5,NULL
+"The BFG",6.8,-87207693
+"The Revenant",8.1,48635922
+Turbo,6.5,-51975100
+Rango,7.2,-11792806
+"Penguins of Madagascar",6.7,-48651080
+"The Bourne Ultimatum",8.1,117137090
+"Kung Fu Panda",7.6,85395021
+Ant-Man,7.4,50191634
+"The Hunger Games: Catching Fire",7.6,294645577
+"War of the Worlds",6.5,102277056
+"Bad Boys II",6.6,8396624
+"Puss in Boots",6.7,19234747
+Salt,6.4,8311368
+Noah,5.8,-23839471
+"The Adventures of Tintin",7.4,-57435963
+"Harry Potter and the Prisoner of Azkaban",7.8,119358727
+Australia,6.6,-80448338
+"After Earth",4.9,-69477903
+Dinosaur,6.5,10248063
+"Harry Potter and the Deathly Hallows: Part II",7.5,NULL
+"Night at the Museum: Secret of the Tomb",6.2,-13266274
+Megamind,7.3,18337537
+"Harry Potter and the Sorcerer's Stone",7.5,192557891
+R.I.P.D.,5.6,-96407585
+"Pirates of the Caribbean: The Curse of the Black Pearl",8.1,165388685
+"Harry Potter and the Deathly Hallows: Part I",6.4,NULL
+"The Hunger Games: Mockingjay - Part 1",6.7,212103873
+"The Da Vinci Code",6.6,92536138
+"Rio 2",6.4,28536019
+"X-Men 2",7.5,104948780
+"Fast Five",7.3,84805005
+"Sherlock Holmes: A Game of Shadows",7.5,61830669
+"Total Recall",7.5,54412921
+"The 13th Warrior",6.6,-52305212
+"The Bourne Legacy",6.7,-11834365
+"Batman & Robin",3.7,-17714996
+"How the Grinch Stole Christmas",6,137031035
+"The Day After Tomorrow",6.4,61739919
+"Mission: Impossible II",6.1,90397307
+"The Perfect Storm",6.4,42618434
+"Fantastic 4: Rise of the Silver Surfer",5.6,1920333
+"Life of Pi",8,4976634
+"Ghost Rider",5.2,5802596
+"Jason Bourne",7.1,-11478165
+"Charlie's Angels: Full Throttle",4.8,-19314120
+Prometheus,7,-3535096
+"Stuart Little 2",5.4,-55263886
+Elysium,6.6,-21949883
+"The Chronicles of Riddick",6.7,-47362515
+"Speed Racer",6.1,-76070659
+"How Do You Know",5.3,-89787380
+"Knight and Day",6.3,-40581346
+Oblivion,7,-30978265
+"Star Wars: Episode III - Revenge of the Sith",7.6,267262555
+"Star Wars: Episode II - Attack of the Clones",6.7,195675583
+"Monsters, Inc.",8.1,174907418
+"The Wolverine",6.7,12550960
+"Star Wars: Episode I - The Phantom Menace",6.5,359544677
+"The Croods",7.3,52165546
+"Asterix at the Olympic Games",5.1,NULL
+Windtalkers,6,-74088170
+"The Huntsman: Winter's War",6.1,-67047980
+Gravity,7.8,174084951
+"Dante's Peak",5.8,-48844258
+"Teenage Mutant Ninja Turtles: Out of the Shadows",6.3,-53361326
+"Fantastic Four",4.3,-63885779
+"Night at the Museum",6.4,140863268
+"San Andreas",6.1,45181732
+"Tomorrow Never Dies",6.5,15332007
+"The Patriot",7.1,3330342
+"Ocean's Twelve",6.4,15531634
+"Mr. & Mrs. Smith",6.5,66336103
+Insurgent,6.3,19995817
+"The Aviator",7.5,-7391173
+"Gulliver's Travels",4.9,-69223741
+"The Green Hornet",5.8,-21219958
+"The A-Team",7.6,NULL
+"300: Rise of an Empire",6.2,-3630883
+"The Smurfs",5.5,32614158
+"Home on the Range",5.4,-59973647
+Allegiant,5.8,-43997807
+"Real Steel",7.1,-24536691
+"The Smurfs 2",5.4,-33982216
+"Speed 2: Cruise Control",3.7,-111931604
+"Ender's Game",6.7,-48343151
+"Live Free or Die Hard",7.2,24520804
+"The Lord of the Rings: The Fellowship of the Ring",8.8,220837577
+Ali,6.8,-48816034
+"The Cat in the Hat",3.8,-8553105
+"I, Robot",7.1,24795350
+"Kingdom of Heaven",7.2,-82603302
+"Stuart Little",5.9,7015224
+"The Princess and the Frog",7.1,-625893
+"The Martian",8.1,120430993
+"10,000 B.C.",7.2,NULL
+"Town & Country",4.4,-83287549
+"Gone in Sixty Seconds",6.5,11643008
+Gladiator,8.5,84670866
+"Minority Report",7.7,30014112
+"Harry Potter and the Chamber of Secrets",7.4,161970615
+"Terminator 2: Judgment Day",8.5,102843350
+"Public Enemies",7,-2969275
+"American Gangster",7.8,30127620
+"True Lies",7.2,31282411
+"The Taking of Pelham 1 2 3",6.4,-34547688
+"Little Fockers",5.5,48383780
+"The Other Guys",6.7,19219978
+Eraser,6.1,1228120
+"Django Unchained",8.5,62804648
+"The Hunchback of Notre Dame",6.9,117603
+"The Emperor's New Groove",7.3,-10703427
+"The Expendables 2",6.7,-6982599
+"National Treasure",6.9,73005002
+Eragon,5.1,-24969837
+"Where the Wild Things Are",6.8,-22777816
+Epic,6.7,7515297
+"End of Days",5.7,-16137932
+"Blood Diamond",8,"Quality Anomaly"
+"The Wolf of Wall Street",8.2,16866727
+"Batman Forever",5.4,84031112
+"Starship Troopers",7.2,-50299935
+"Cloud Atlas",7.5,-74901420
+"Legend of the Guardians: The Owls of Ga'Hoole",7,-24326667
+Catwoman,3.3,-59801290
+Hercules,6,-27339971
+"Treasure Planet",7.1,-101879446
+"Land of the Lost",5.4,-50607905
+"The Expendables 3",6.1,-50707978
+"Son of the Mask",2.2,-66989354
+"In the Heart of the Sea",7,-75014388
+"The Adventures of Pluto Nash",3.8,-95588898
+"Green Zone",6.9,-64975525
+"The Peanuts Movie",7.2,31174897
+"The Spanish Prisoner",7.3,200000
+"The Mummy Returns",6.3,104007640
+"Gangs of New York",7.5,-22320362
+"The Flowers of War",7.6,-93990787
+"Surf's Up",6.8,-41132306
+"The Stepford Wives",5.2,-30524377
+"Black Hawk Down",7.7,16638745
+"The Campaign",6.2,-8102818
+"The Fifth Element",7.7,-29459980
+"Sex and the City 2",4.3,-4671063
+"The Road to El Dorado",6.9,-44197339
+"Ice Age: Continental Drift",6.6,66317423
+"Finding Nemo",8.2,286838870
+"The Lord of the Rings: The Return of the King",8.9,283019252
+"The Lord of the Rings: The Two Towers",8.7,246478898
+"Seventh Son",5.5,-77823100
+"Lara Croft: Tomb Raider",5.7,16144183
+Transcendence,6.3,-76985496
+"Jurassic Park III",5.9,88166115
+"Rise of the Planet of the Apes",7.6,83740650
+"The Spiderwick Chronicles",6.6,-18851301
+"A Good Day to Die Hard",5.3,-24655608
+"The Alamo",6,-84593638
+"The Incredibles",8,169437578
+"Cutthroat Island",5.6,-87000000
+"Percy Jackson & the Olympians: The Lightning Thief",5.9,-6238280
+"Men in Black",7.3,160147615
+"Toy Story 2",7.9,155823397
+Unstoppable,6.8,-18442521
+"Rush Hour 2",6.6,136138454
+"What Lies Beneath",6.6,55370362
+"Cloudy with a Chance of Meatballs",7,24870275
+"Ice Age: Dawn of the Dinosaurs",7,106573705
+"The Secret Life of Walter Mitty",7.3,-31770880
+"Charlie's Angels",5.5,33305545
+"The Departed",8.5,42373442
+Mulan,7.5,30618403
+"Tropic Thunder",7,18416702
+"The Girl with the Dragon Tattoo",7.8,12515793
+"Die Hard with a Vengeance",7.6,10012500
+"Sherlock Holmes",7.6,119019489
+"Atlantis: The Lost Empire",6.8,-35962961
+"Alvin and the Chipmunks: The Road Chip",5,-4115185
+Valkyrie,7.1,8077470
+"You Don't Mess with the Zohan",5.5,10018837
+Pixels,5.6,-9252415
+"A.I. Artificial Intelligence",7.1,-21383311
+"The Haunted Mansion",4.9,-14182006
+Contact,7.4,10853835
+"Hollow Man",5.7,-21790660
+"The Interpreter",6.4,-7484640
+"Percy Jackson: Sea of Monsters",5.9,-21441338
+"Lara Croft Tomb Raider: The Cradle of Life",5.5,-29346242
+"Now You See Me 2",6.9,-25314641
+"The Saint",6.2,-6644564
+"Spy Game",7,-91973129
+"Mission to Mars",5.6,-29125385
+Rio,7,53618384
+"Bicentennial Man",6.8,-41779224
+Volcano,5.4,-42525888
+"The Devil's Own",6.1,-43122835
+"K-19: The Widowmaker",6.7,-64831323
+"Cinderella Man",8,"Quality Anomaly"
+"The Nutcracker in 3D",4.4,-89809438
+Seabiscuit,7.3,33147445
+Twister,6.3,149688385
+"Cast Away",7.7,143630478
+"Happy Feet",6.5,97992827
+"The Bourne Supremacy",7.8,101049130
+"Air Force One",6.4,87620724
+"Ocean's Eleven",7.8,98405771
+"The Three Musketeers",5.8,-54684676
+"Hotel Transylvania",7.1,63313048
+Enchanted,7.1,42706877
+Hannibal,8.6,NULL
+"Safe House",6.8,41149655
+"102 Dalmatians",4.8,-18058441
+"Tower Heist",6.2,3009155
+"The Holiday",6.9,-21775151
+"Enemy of the State",7.3,21544445
+"It's Complicated",6.6,27703470
+"Ocean's Thirteen",6.9,32144465
+"Open Season",6.2,-696442
+Divergent,6.7,65832203
+"Enemy at the Gates",7.6,-16603219
+"The Rundown",6.7,-37407175
+"Last Action Hero",6.2,-19983606
+"Memoirs of a Geisha",7.3,-27989147
+"The Fast and the Furious: Tokyo Drift",6,-22505025
+"Arthur Christmas",7.1,-53559509
+"Meet Joe Black",7.1,-45393665
+"Collateral Damage",5.5,-44951668
+"All That Jazz",7.8,NULL
+"Mirror Mirror",5.6,-20066330
+"Scott Pilgrim vs. the World",7.5,-28505730
+"The Core",5.4,-28888740
+"Nutty Professor II: The Klumps",4.3,58307945
+Scooby-Doo,4.9,69288182
+Click,6.4,67340146
+"Cats & Dogs: The Revenge of Kitty Galore",4.3,-41424284
+Jumper,6.1,-4829854
+"Hellboy II: The Golden Army",7,-9245330
+Zodiac,7.7,-31951647
+"The 6th Day",5.9,-47456299
+"Bruce Almighty",6.7,161589580
+"The Expendables",6.5,22981571
+"Mission: Impossible",7.1,100965237
+"The Hunger Games",7.3,329999255
+"The Hangover Part II",6.5,174455986
+"Batman Returns",7,82831698
+"Over the Hedge",6.8,75019340
+"Lilo & Stitch",7.2,65771527
+"Charlotte's Web",6.4,NULL
+"Deep Impact",6.1,65459099
+"RED 2",6.7,-30784021
+"The Longest Yard",6.4,76115031
+"Alvin and the Chipmunks: Chipwrecked",4.4,58103929
+"Grown Ups 2",5.4,53668525
+"Get Smart",6.5,50313314
+"Something's Gotta Give",6.7,44590960
+"Shutter Island",8.1,47968405
+"Four Christmases",5.6,40136047
+Robots,6.3,53200012
+Face/Off,7.3,32225777
+"Bedtime Stories",6.1,29993847
+"Road to Perdition",7.7,24054514
+"Just Go with It",6.4,23028109
+Daredevil,8.8,NULL
+"Con Air",6.8,26087161
+"Eagle Eye",6.6,21111837
+"Cold Mountain",7.2,16632614
+"The Book of Eli",6.9,14822707
+Flubber,5.2,12969824
+"The Haunting",4.9,11188905
+"Space Jam",6.3,10443603
+"The Pink Panther",5.6,17226474
+"Conspiracy Theory",6.7,1081498
+Fury,7.6,17707116
+"Six Days Seven Nights",5.7,4329966
+"Yogi Bear",4.6,20169068
+"Spirit: Stallion of the Cimarron",7,-6784690
+Zookeeper,5.2,360866
+"Lost in Space",5.1,-10897090
+"The Manchurian Candidate",6.6,-14051289
+"D  j   Vu",7,NULL
+"Hotel Transylvania 2",6.7,89692572
+Bewitched,7.6,NULL
+"Fantasia 2000",7.3,-19492772
+"The Time Machine",5.9,-23315181
+"Mighty Joe Young",5.6,-39371991
+Swordfish,6.5,-10227031
+"The Legend of Zorro",5.9,-29643614
+"What Dreams May Come",7,-29649103
+"Little Nicky",5.3,-40557129
+"The Brothers Grimm",5.9,-50100362
+"Mars Attacks!",6.3,-32245792
+Evolution,6.4,NULL
+"The Edge",6.9,NULL
+Surrogates,6.3,-41457582
+"Thirteen Days",7.3,-45433254
+Daylight,5.8,-47114435
+"Walking with Dinosaurs 3D",5.2,-43926768
+"Battlefield Earth",2.4,-22528315
+"Looney Tunes: Back in Action",5.7,-59049180
+Nine,5.8,-60326576
+Timeline,5.6,-60519261
+"The Postman",6,-62406609
+"Babe: Pig in the City",5.8,-61682000
+"The Last Witch Hunter",6,-62643910
+"Red Planet",5.7,-52526755
+"Arthur and the Invisibles",6,-70868670
+Oceans,7.8,-20593594
+"A Sound of Thunder",4.2,-50108179
+Pompeii,5.6,-56780252
+"Top Cat Begins",4.4,NULL
+"A Beautiful Mind",8.2,112708996
+"The Lion King",8.5,377783777
+"Journey 2: The Mysterious Island",5.8,24812241
+"Cloudy with a Chance of Meatballs 2",6.5,41793567
+"Red Dragon",7.2,14930005
+Hidalgo,6.7,-32713269
+"Jack and Jill",3.4,-4841843
+"2 Fast 2 Furious",5.9,51083765
+"The Little Prince",7.8,-79860848
+"The Invasion",5.9,-64928486
+"The Adventures of Rocky & Bullwinkle",4.1,-49999390
+"The Secret Life of Pets",6.8,248505540
+"The League of Extraordinary Gentlemen",5.8,-11537400
+"Despicable Me 2",7.5,292049635
+"Independence Day",6.9,231124059
+"The Lost World: Jurassic Park",6.5,156074524
+Madagascar,6.9,118136719
+"Children of Men",7.9,-40713572
+X-Men,7.4,82299717
+Wanted,6.7,59568845
+"The Rock",7.4,59006721
+"Ice Age: The Meltdown",6.9,115329763
+"50 First Dates",6.8,45776832
+Hairspray,6.7,43823091
+"Exorcist: The Beginning",5.1,-8185137
+"Inspector Gadget",4.1,22360069
+"Now You See Me",7.3,42698894
+"Grown Ups",6,82001186
+"The Terminal",7.3,17032279
+Constantine,7.5,NULL
+"Hotel for Dogs",5.4,38023275
+"Vertical Limit",5.9,-6526640
+"Charlie Wilson's War",7.1,-8363615
+"Shark Tale",6,85762022
+Dreamgirls,6.5,33338338
+Life,8.3,NULL
+"Be Cool",5.7,2808744
+Munich,7.6,-22620910
+"Tears of the Sun",6.6,-26573039
+Killers,5.4,-27999515
+"The Man from U.N.C.L.E.",7.3,-29565557
+Spanglish,6.5,-37955679
+"Monster House",6.6,-1338990
+Bandits,6.6,-38476729
+"First Knight",5.9,-17399565
+"Anna and the King",6.7,-35748872
+Immortals,6.1,8503161
+Hostage,6.6,-17363557
+"Titan A.E.",6.6,-52248021
+"Hollywood Homicide",5.3,-44986654
+Soldier,6,-60432117
+Carriers,6,NULL
+Monkeybone,4.7,-69590483
+"Flight of the Phoenix",6.1,-23990820
+Unbreakable,7.2,19999143
+Minions,6.4,262029560
+"Sucker Punch",6.1,-45618284
+"Snake Eyes",5.9,-13414611
+Sphere,6,-38023633
+"The Angry Birds Movie",6.3,34225164
+"Fool's Gold",5.6,224196
+"Funny People",6.4,-23185810
+"The Kingdom",7.1,-22543550
+"Talladega Nights: The Ballad of Ricky Bobby",6.6,75213377
+"Dr. Dolittle 2",4.6,40950721
+Braveheart,8.4,3600000
+Jarhead,7.1,-7352460
+"The Simpsons Movie",7.4,108132370
+"The Majestic",6.9,-44203958
+Driven,4.5,-39383131
+"Two Brothers",7.1,-40712370
+"The Village",6.5,54195633
+"Doctor Dolittle",5.3,72656464
+Signs,6.7,155965690
+"Shrek 2",7.2,286471036
+Cars,7.2,124052771
+"Runaway Bride",5.5,82149590
+xXx,5.8,71204016
+"The SpongeBob Movie: Sponge Out of Water",6,88495848
+Ransom,6.6,56448821
+"Inglourious Basterds",8.3,45523073
+Hook,6.7,49654900
+"Die Hard 2",7.1,47541000
+S.W.A.T.,6,36643346
+"Sleepy Hollow",7.5,NULL
+"Vanilla Sky",6.9,32614858
+"Lady in the Water",5.6,-27727253
+"AVP: Alien vs. Predator",5.6,20281096
+"Alvin and the Chipmunks: The Squeakquel",4.5,144613391
+"We Were Soldiers",7.1,3120196
+"Olympus Has Fallen",6.5,28895417
+"Star Trek: Insurrection",6.4,12117571
+"Battle Los Angeles",5.8,13552429
+"Big Fish",8,"Quality Anomaly"
+Wolf,6.2,-4988000
+"War Horse",7.2,13883359
+"The Monuments Men",6.1,8031620
+"The Abyss",7.6,-15278000
+"Wall Street: Money Never Sleeps",6.3,-17525384
+"Dracula Untold",6.3,-14057170
+"The Siege",6.3,-29067628
+Stardust,7.7,-31654597
+"Seven Years in Tibet",7,-32098491
+"The Dilemma",5.3,-21569645
+"Bad Company",5.6,-39842984
+Doom,5.2,-31968750
+"I Spy",5.4,-36894400
+"Underworld: Awakening",6.4,-7678961
+"Rock of Ages",5.9,-36490658
+"Hart's War",6.3,-40923185
+"Killer Elite",6.5,-9906393
+Rollerball,3,-51009458
+"Ballistic: Ecks vs. Sever",3.6,-55705158
+"Hard Rain",5.8,-50180506
+"Osmosis Jones",6.2,-56403089
+"Legends of Oz: Dorothy's Return",5.6,-61539010
+Blackhat,5.4,-62902875
+"Sky Captain and the World of Tomorrow",6.1,-32239920
+"Basic Instinct 2",4.2,-64148812
+"Escape Plan",6.7,-24878709
+"The Legend of Hercules",4.2,-51178721
+"The Sum of All Fears",6.4,50471320
+"The Twilight Saga: Eclipse",4.9,232523113
+"The Score",6.8,3069884
+"Despicable Me",7.7,182501645
+"Money Train",5.6,-32675768
+"Ted 2",6.4,13257500
+Agora,7.2,-69382160
+"Mystery Men",6,-35344410
+"Hall Pass",5.9,9045037
+"The Insider",7.9,-39034803
+"The Finest Hours",6.8,NULL
+"Body of Lies",7.1,-30619558
+"Dinner for Schmucks",5.9,NULL
+"Abraham Lincoln: Vampire Hunter",5.9,-31483987
+Entrapment,6.2,21704396
+"Last Man Standing",7.4,NULL
+"The X Files",7,17892374
+"The Last Legion",5.4,-29067940
+"Saving Private Ryan",8.6,146119491
+"Need for Speed",6.5,-22431493
+"What Women Want",6.4,112805123
+"Ice Age",7.6,117387405
+Dreamcatcher,5.5,-34314732
+Lincoln,7.4,117204440
+"The Matrix",8.7,108383253
+"Apollo 13",7.6,110071312
+"The Santa Clause 2",5.5,79225854
+"Les Mis  rables",7.6,87775460
+"You've Got Mail",6.5,50731542
+"Step Brothers",6.9,35468793
+"The Mask of Zorro",6.7,28771072
+"Due Date",6.6,35448498
+Unbroken,7.2,50603980
+"Space Cowboys",6.4,25454043
+Cliffhanger,6.4,14049211
+"Broken Arrow",6,20450000
+"The Kid",6.1,9688384
+"World Trade Center",6,7236496
+"Mona Lisa Smile",6.4,-1304240
+"The Dictator",6.4,-5382932
+"Eyes Wide Shut",7.3,-9362320
+Annie,5.2,20911262
+Focus,6.6,3746915
+"This Means War",6.3,-10241539
+"Blade: Trinity",5.9,-12602611
+"Red Dawn",6.4,NULL
+"Primary Colors",6.7,-26033943
+"Resident Evil: Retribution",5.4,-22654469
+"Death Race",6.4,-8935090
+"The Long Kiss Goodnight",6.7,-31671949
+"Proof of Life",6.2,-32401069
+"Zathura: A Space Adventure",6.1,-36954460
+"Fight Club",8.8,"Quality Anomaly"
+"We Are Marshall",7.1,-21467706
+"The Missing",8.1,NULL
+"Hudson Hawk",5.7,-52781920
+"Lucky Numbers",5,-54985766
+"I, Frankenstein",5.1,-45940982
+"Oliver Twist",6.9,-48012713
+Elektra,4.8,-18592056
+"Sin City: A Dame to Kill For",6.5,-51249444
+"Random Hearts",5.1,-32945076
+Everest,7.1,-11752860
+"Perfume: The Story of a Murderer",7.5,-47791061
+"Austin Powers in Goldmember",6.2,150079163
+"Astro Boy",6.3,-45451936
+"Jurassic Park",8.1,293784000
+"Wyatt Earp",6.6,-37948000
+"Clear and Present Danger",6.9,60012710
+"Dragon Blade",6.1,-64927587
+Littleman,4.3,-5744713
+U-571,6.6,15086030
+"The American President",6.8,3000000
+"The Love Guru",3.8,-29821223
+"3000 Miles to Graceland",5.9,-26261368
+"The Hateful Eight",7.9,10116191
+"Blades of Glory",6.3,57153533
+Hop,5.5,45012170
+300,7.7,145592590
+"Meet the Fockers",6.3,199167575
+"Marley & Me",7.1,83151473
+"The Green Mile",8.5,76801374
+"Wild Hogs",5.9,NULL
+"Chicken Little",5.8,-14618493
+"Gone Girl",8.1,106735396
+"The Bourne Identity",7.9,61468960
+GoldenEye,7.2,48635996
+"The General's Daughter",6.3,7678089
+"The Truman Show",8.1,65603360
+"The Prince of Egypt",7,31217900
+"Daddy Day Care",5.5,44148781
+"2 Guns",6.7,14573300
+"Cats & Dogs",5.2,33375151
+"The Italian Job",7,46126012
+"Two Weeks Notice",6.1,33307796
+Antz,6.6,-14353446
+"Couples Retreat",5.5,49176215
+"Days of Thunder",5.9,22670733
+"Cheaper by the Dozen 2",5.4,22569532
+"The Scorch Trials",6.4,20687587
+"Eat Pray Love",5.7,20574010
+"The Family Man",6.7,15764085
+RED,7.1,32356857
+"Any Given Sunday",6.8,20530832
+"The Horse Whisperer",6.5,15370763
+Collateral,7.6,35003492
+"The Scorpion King",5.5,30341670
+"Ladder 49",6.5,19540762
+"Deep Blue Sea",5.8,13648142
+"This Is It",7.3,11844424
+Contagion,6.6,15638743
+"Kangaroo Jack",4.4,6734992
+Coraline,7.7,15280058
+"The Happening",5,16505912
+"Man on Fire",7.7,7862546
+"The Shaggy Dog",4.4,11112916
+"Starsky & Hutch",6.1,28200225
+"Jingle All the Way",5.4,573641
+Hellboy,6.8,-6964896
+"A Civil Action",6.5,-3297099
+ParaNorman,7,-4005443
+"The Jackal",6.3,-5089440
+Paycheck,6.3,-6210687
+"Up Close & Personal",6.1,-8954199
+"The Tale of Despereaux",6.1,-9181250
+"Rules of Engagement",7.3,NULL
+"The Tuxedo",5.3,-9810821
+"Under Siege 2: Dark Territory",5.4,-9975917
+"Jack Ryan: Shadow Recruit",6.2,-9450893
+Joy,6.6,-3556518
+"London Has Fallen",5.9,2401264
+"Alien: Resurrection",6.3,-27251390
+Shooter,7.2,-14024817
+"The Boxtrolls",6.8,-9192361
+"Practical Magic",6.1,-1388796
+"The Lego Movie",7.8,197756197
+"Miss Congeniality 2: Armed and Fabulous",5,3472213
+"Reign of Fire",6.2,-16939434
+"Gangster Squad",6.7,-14003282
+"Year One",4.9,-16662721
+Invictus,7.4,-22520222
+"State of Play",7.1,NULL
+Duplicity,6.2,-19440070
+"My Favorite Martian",4.9,-28169943
+"The Sentinel",6.1,-23720770
+"Planet 51",6.1,-27805940
+"Star Trek: Nemesis",6.4,-16880121
+"Intolerable Cruelty",6.3,-24903810
+"Trouble with the Curve",6.8,NULL
+"Edge of Darkness",6.6,-36709023
+"The Relic",5.7,-6072524
+"Analyze That",5.9,-27877751
+"Righteous Kill",6,-19923562
+"The Soloist",6.7,-28329069
+"The Legend of Bagger Vance",6.7,-29304773
+"Almost Famous",7.9,-27477648
+"Garfield 2",5,NULL
+"xXx: State of the Union",4.3,-60917086
+Priest,5.7,-30863374
+"Sinbad: Legend of the Seven Seas",6.7,-33711680
+"Event Horizon",6.7,-33383410
+Dragonfly,6.1,-29936195
+"The Black Dahlia",5.6,-27481675
+Flyboys,6.6,-46917712
+"The Last Castle",6.9,-41791922
+Supernova,4.8,-50781132
+"Winter's Tale",6.2,-59977549
+"The Mortal Instruments: City of Bones",6,-28834579
+"Meet Dave",4.9,-48197944
+"Dark Water",5.6,-4527033
+Edtv,6.1,-32637500
+Inkheart,6.1,-42718168
+"The Spirit",4.8,-40218121
+Mortdecai,5.5,-52394332
+"In the Name of the King: A Dungeon Siege Tale",3.8,-55464883
+"Beyond Borders",6.5,-30573703
+"Xi you ji zhi: Sun Wukong san da Baigu Jing",6,NULL
+"The Great Raid",6.7,-69833498
+Deadpool,8.1,305024263
+"Holy Man",4.9,-47934015
+"American Sniper",7.3,291323553
+"Sabrina, the Teenage Witch",6.6,NULL
+"Just Like Heaven",6.7,-9708376
+"The Flintstones in Viva Rock Vegas",3.6,-24768635
+"Rambo III",5.7,-9284389
+Leatherheads,6,-26800785
+"The Ridiculous 6",4.9,NULL
+"Did You Hear About the Morgans?",4.7,-28419913
+"The Internship",6.3,-13334037
+"Resident Evil: Afterlife",5.9,128566
+"Red Tails",5.9,-8124411
+"Sex and the City",7,NULL
+"The Devil's Advocate",7.5,3984028
+"That's My Boy",5.6,-33068911
+DragonHeart,6.4,-5682650
+"After the Sunset",6.3,-29671868
+"Ghost Rider: Spirit of Vengeance",4.3,-5225998
+"Captain Corelli's Mandolin",5.9,-31471505
+"Anger Management",6.7,NULL
+"The Pacifier",5.5,57006880
+"Walking Tall",6.2,-10139961
+"Forrest Gump",8.8,274691196
+"Alvin and the Chipmunks",5.2,157326336
+"Meet the Parents",7,111225040
+Pocahontas,6.6,86600000
+Superman,7.3,79218018
+"The Nutty Professor",5.6,74769345
+Hitch,6.6,107575142
+"George of the Jungle",5.4,50263257
+"American Wedding",6.3,49354205
+"Captain Phillips",7.9,52100855
+"Date Night",6.3,43711404
+Casper,6,50328194
+"The Equalizer",7.2,46530738
+"Maid in Manhattan",5.1,38815117
+"Crimson Tide",7.3,38400000
+"The Pursuit of Happyness",8,107586036
+Flightplan,6.2,34706988
+Disclosure,6,28000000
+"City of Angels",6.7,23745923
+"Kill Bill: Vol. 1",8.1,40098138
+Bowfinger,6.4,11365290
+"Stargate SG-1",8.4,NULL
+"Kill Bill: Vol. 2",8,36207920
+"Tango & Cash",6.3,8408614
+"Death Becomes Her",6.4,3422650
+"Shanghai Noon",6.6,1932305
+"Executive Decision",6.4,13750000
+"Mr. Popper's Penguins",6,13218041
+"The Forbidden Kingdom",6.6,-29959707
+"Free Birds",5.9,747724
+"Alien 3",6.4,5473600
+Evita,6.3,-5005196
+Ronin,7.3,-13390407
+"The Ghost and the Darkness",6.8,-16446167
+Paddington,7.2,21137505
+"The Hunted",6,-20761389
+Instinct,6.5,-20901437
+"Stuck on You",5.8,-21171682
+Semi-Pro,5.8,-21527150
+"The Pirates! Band of Misfits",6.7,-23948874
+Changeling,7.8,-19292673
+"Chain Reaction",5.6,-29449288
+"The Fan",5.8,-36426209
+"The Phantom of the Opera",7.4,-18774204
+"Elizabeth: The Golden Age",6.9,-38735525
+"on Flux",5.5,-36142013
+"Gods and Generals",6.3,-43129431
+Turbulence,4.7,-59533912
+"Imagine That",5.6,-38911390
+"Muppets Most Wanted",6.4,1178893
+Thunderbirds,4.2,-50231945
+Burlesque,6.4,-15559345
+"A Very Long Engagement",7.7,-40832183
+"Eye See You",5.3,NULL
+"Blade II",6.7,27645152
+"Seven Pounds",7.7,14951824
+"Bullet to the Head",5.7,-45516179
+"The Godfather: Part III",7.6,12676062
+Elizabethtown,6.4,-30161611
+"You, Me and Dupree",5.6,21604320
+"Superman II",6.8,54200000
+Gigli,2.4,-48339916
+"All the King's Men",6.2,-47778542
+Shaft,5.9,24327868
+Anastasia,7.1,8297830
+"Moulin Rouge!",7.6,4886369
+"Domestic Disturbance",5.5,-7792888
+"Black Mass",7,9563543
+"Flags of Our Fathers",7.1,-56425668
+"Law Abiding Citizen",7.4,23343413
+Grindhouse,7.6,-27968963
+Beloved,5.9,-32156953
+"Lucky You",5.9,-49244714
+"Catch Me If You Can",8,112435221
+"Zero Dark Thirty",7.4,55720716
+"The Break-Up",5.8,66683135
+"Mamma Mia!",6.3,91704210
+"Valentine's Day",5.7,58476776
+"The Dukes of Hazzard",5.1,30270227
+"The Thin Red Line",7.6,-15614237
+"The Change-Up",6.4,-14964155
+"Man on the Moon",7.4,-17419365
+Casino,8.2,"Quality Anomaly"
+"From Paris with Love",6.5,-28675334
+"Bulletproof Monk",5.5,-28979512
+"Me, Myself & Irene",6.5,39567722
+Barnyard,5.6,21601713
+"Deck the Halls",4.9,NULL
+"The Twilight Saga: New Moon",4.6,246623634
+Shrek,7.9,207652016
+"The Adjustment Bureau",7.1,12253315
+"Robin Hood: Prince of Thieves",6.9,117500000
+"Jerry Maguire",7.3,103620822
+Ted,7,168628680
+"As Good as It Gets",7.7,97637474
+"Patch Adams",6.7,85014968
+"Anchorman 2: The Legend Continues",6.3,-47824688
+"Mr. Deeds",5.8,76203320
+"Super 8",7.1,76975169
+"Erin Brockovich",7.3,73548685
+"How to Lose a Guy in 10 Days",6.4,55807520
+"22 Jump Street",7.1,141616238
+"Interview with the Vampire: The Vampire Chronicles",7.6,45264608
+"Yes Man",6.8,27680195
+"Central Intelligence",6.6,76088877
+Stepmom,6.7,41030827
+"Daddy's Home",6.1,100315155
+"Into the Woods",6,77997349
+"Inside Man",7.6,43504640
+Payback,7.1,31517441
+Congo,5,31022333
+"We Bought a Zoo",7.1,NULL
+Knowing,6.2,29948113
+"Failure to Launch",5.6,38658172
+"The Ring Two",5.4,NULL
+"Crazy, Stupid, Love.",7.4,34244877
+Garfield,5,40367693
+"Christmas with the Kranks",5.2,13701902
+Moneyball,7.6,25605492
+Outbreak,6.6,17823573
+Non-Stop,7,41439400
+"Race to Witch Mountain",5.7,2128202
+"V for Vendetta",8.2,16496802
+"Shanghai Knights",6.2,10470220
+Unforgotten,7.9,NULL
+"Curious George",6.6,8336565
+"Herbie Fully Loaded",4.7,16002004
+"Don't Say a Word",6.3,4997476
+"Hansel & Gretel: Witch Hunters",6.1,5682070
+Unfaithful,6.7,2752475
+"I Am Number Four",6.1,-4907170
+"13 Hours",7.4,2822418
+"The Book of Life",7.3,150619
+Firewall,5.8,-1254850
+"Absolute Power",6.7,7168
+"G.I. Jane",5.8,-1845268
+"The Game",7.8,-1734419
+"Silent Hill",6.6,-3017368
+"The Replacements",6.5,-5262941
+"American Reunion",6.7,6724080
+"The Negotiator",7.3,-5515935
+"Into the Storm",5.8,-2446488
+"Beverly Hills Cop III",5.5,-12390000
+"Gremlins 2: The New Batch",6.3,-8517793
+"The Judge",7.4,-2894915
+"The Peacemaker",5.9,-8743723
+"Resident Evil: Apocalypse",6.2,5740078
+"Bridget Jones: The Edge of Reason",5.9,203020
+"Out of Time",6.5,-9094723
+"On Deadly Ground",4.4,-11409500
+"The Adventures of Sharkboy and Lavagirl 3-D",3.5,-10822459
+"The Beach",6.6,-10221401
+"Raising Helen",6,-12513862
+"Ninja Assassin",6.4,-1894923
+"For Love of the Game",6.5,-14831605
+"A Touch of Frost",7.8,NULL
+Striptease,4.3,-7200000
+Marmaduke,4.2,-16356539
+Hereafter,6.5,-17258404
+Assassins,6.3,-19693732
+"Hannibal Rising",6.2,-22332053
+"The Story of Us",5.9,-22932840
+"The Host",5.9,-13383001
+Basic,6.5,-23463880
+"Blood Work",6.4,-23800483
+"The International",6.5,-24549473
+"Escape from L.A.",5.7,-24592750
+Twisted,7.5,NULL
+"The Iron Giant",8,"Quality Anomaly"
+"The Life Aquatic with Steve Zissou",7.3,-25993274
+"Free State of Jones",6.7,-29610033
+"The Life of David Gale",7.5,-30406260
+"Man of the House",5.4,-20881753
+"Run All Night",6.6,-23557749
+"Eastern Promises",7.7,-7885118
+"Into the Blue",5.8,-31527637
+"The Messenger: The Story of Joan of Arc",6.4,-375868702
+"Your Highness",5.6,-28342760
+"Dream House",6,-33716560
+"Mad City",6.2,-39443804
+"Baby's Day Out",5.9,-33328495
+"The Scarlet Letter",5.1,-39600000
+"Fair Game",6.8,-12471908
+Defiance,7,NULL
+Domino,6,-39862768
+Jade,5.1,-40204983
+Gamer,5.8,-29511421
+"Beautiful Creatures",6.2,-40554783
+"Death to Smoochy",6.4,-46644185
+"Zoolander 2",4.8,-21162885
+"The Big Bounce",4.9,-43528606
+"What Planet Are You From?",5.6,-43708398
+"Drive Angry",5.5,-39293214
+"Street Fighter: The Legend of Chun-Li",3.7,-9257739
+"The One",5.9,-5094254
+Outlander,8.5,NULL
+"The Adventures of Ford Fairlane",6.3,-18586498
+"Pirate Radio",7.4,NULL
+Traffic,7.6,76107476
+"Indiana Jones and the Last Crusade",8.3,149171806
+"Anna Karenina",6.6,NULL
+Chappie,6.9,-17430732
+"The Bone Collector",6.7,18488090
+"Panic Room",6.8,47308367
+"The Tooth Fairy",4.6,NULL
+"Three Kings",7.1,12652036
